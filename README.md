@@ -8,6 +8,7 @@ Interactive demos of AI and analytics solutions, viewable in the browser. All da
 |---|---|---|
 | [Ad Revenue Intelligence Workbench](https://sidharthrathssr-gh.github.io/portfolio/media-ad-revenue-intelligence-agentic-workbench.html) | Media & Advertising, Agentic AI | 27 coordinated AI agents for outbound sales, strategic account intelligence and CRM workflow automation, with human approval before anything is sent |
 | [Customer Support Service Intelligence Platform](https://sidharthrathssr-gh.github.io/portfolio/manufacturing-customer-support-agentic-service-intelligence-platform.html) | Manufacturing & Customer Support, Agentic AI | 9 coordinated AI agents that classify support tickets, check warranty and orders, and route cases, with human approval for sensitive actions; includes customer, voice and executive views |
+| [Core Ledger Onboarding Partner Workbench](https://sidharthrathssr-gh.github.io/portfolio/banking-core-ledger-onboarding-agentic-partner-workbench.html) | Banking & Financial Services, Agentic AI | 5 coordinated AI agents that discover, sync, map, validate and reconcile a credit union general ledger into a reporting layer, with the implementation partner approving each decision; includes a Readme tab |
 
 ## How the repo is organised
 
